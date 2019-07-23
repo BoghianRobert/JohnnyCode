@@ -4,7 +4,9 @@ export default class DesktopContainer extends Component {
 
   render() {
     return (
-      home
+      <div className="home-screen">
+        home
+      </div>
     )
   }
 }
