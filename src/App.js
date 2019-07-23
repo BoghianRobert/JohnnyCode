@@ -4,7 +4,9 @@ export default class App extends Component {
   render() {
     return (
       <div className='App'>
-        hello EDY
+
+        hello EDY mataaaaa haloo
+        
       </div>
     )
   }
